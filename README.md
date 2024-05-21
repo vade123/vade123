@@ -1,5 +1,8 @@
-## Hi there 👋
+## Moro 👋
 
+Fullstack software developer working at [Futurice](https://futurice.com/).
+
+Preferably writing TypeScript seasoned with a fp library for Google Cloud. In reality doing anything and everything needed in the current project.
 <!--
 **vade123/vade123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
